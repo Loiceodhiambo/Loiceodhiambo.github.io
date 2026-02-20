@@ -1,1 +1,14 @@
+---
+Title: "Introduction to Data Science"
+Date: 2026-02-20 
+Categories: [Data Science]
+Tags: [xss,sql-injection, csrf]
+---
 
+Data Science is an interdisciplinary field that uses statistical methods, to extract actionable insights from  data.
+
+## SQL Injection
+This occurs when unsanitized input is used in database queries
+
+##XSS
+Cross-site scripting allows attackers to inject scripts into web pages viewed by others.
