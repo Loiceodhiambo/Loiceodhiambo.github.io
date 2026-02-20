@@ -2,13 +2,13 @@
 Title: "Introduction to Data Science"
 Date: 2026-02-20 
 Categories: [Data Science]
-Tags: [xss,sql-injection, csrf]
+Tags: [Descriptive statistics,forecasting]
 ---
 
 Data Science is an interdisciplinary field that uses statistical methods, to extract actionable insights from  data.
 
-## SQL Injection
-This occurs when unsanitized input is used in database queries
+## Descriptive Statistics
+Descriptive statistics are quantitative techniques used to summarize, organize, and describe the main features of a dataset.
 
-##XSS
-Cross-site scripting allows attackers to inject scripts into web pages viewed by others.
+## Inferential Statistics
+Inferential statistics are statistical methods used to draw conclusions about a population based on data collected from a sample.
