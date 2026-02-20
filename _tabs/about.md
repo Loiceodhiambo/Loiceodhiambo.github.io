@@ -5,5 +5,5 @@ order: 4
 ---
 
 Hi! I am "Loice Odhiambo" a Data Analyst.
-Skilled in Data Science and AI
+Skilled in Data Science and AI.
 Passionate about Research and technology.
