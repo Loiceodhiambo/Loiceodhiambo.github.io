@@ -1,5 +1,5 @@
 ---
-title: "data wrangling in python"
+title: "Data wrangling in python"
 date: 2026-02-21
 categories: [data wrangling, data and AI]
 tags: [data and AI]
