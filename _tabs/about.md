@@ -8,7 +8,7 @@ Hi! I am "Loice Odhiambo" a Data Analyst.
 Skilled in Data Science and AI.
 Passionate about Research and technology.
 
-## Resumee
+## Resume
 
-https://drive.google.com/file/d/1FXh6epn0Ai5LpHKIGSqEUaKYM0ySFeiB/view?usp=drive_link
+[View my Resume](https://drive.google.com/file/d/1FXh6epn0Ai5LpHKIGSqEUaKYM0ySFeiB/view?usp=drive_link)
 
