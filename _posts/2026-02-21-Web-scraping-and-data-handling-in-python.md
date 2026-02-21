@@ -9,5 +9,4 @@ The task involved structured data from a live website. Three libraries were used
 Requests for handling HTTP requests, BeautifulSoup for parsing HTML, and pandas for storing and manipulating data
 Data was collected and organized into a DataFrame, and export results to a .csv file. 
 
-Link to code
-https://colab.research.google.com/drive/1iOXEbwHf4pQtK7Nb3pQr2ocqaoFUuDm7?usp=sharing
+[Link to code](https://colab.research.google.com/drive/1iOXEbwHf4pQtK7Nb3pQr2ocqaoFUuDm7?usp=sharing)
